@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mmnauman/planets/static/css/main.01c6a820.chunk.css",
-    "main.js": "/mmnauman/planets/static/js/main.895f5009.chunk.js",
-    "main.js.map": "/mmnauman/planets/static/js/main.895f5009.chunk.js.map",
+    "main.js": "/mmnauman/planets/static/js/main.992a994d.chunk.js",
+    "main.js.map": "/mmnauman/planets/static/js/main.992a994d.chunk.js.map",
     "runtime-main.js": "/mmnauman/planets/static/js/runtime-main.09848a0e.js",
     "runtime-main.js.map": "/mmnauman/planets/static/js/runtime-main.09848a0e.js.map",
     "static/js/2.a968a669.chunk.js": "/mmnauman/planets/static/js/2.a968a669.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.09848a0e.js",
     "static/js/2.a968a669.chunk.js",
     "static/css/main.01c6a820.chunk.css",
-    "static/js/main.895f5009.chunk.js"
+    "static/js/main.992a994d.chunk.js"
   ]
 }
